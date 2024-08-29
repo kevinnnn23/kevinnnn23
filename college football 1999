@@ -3340,20 +3340,20 @@
 							"rivalAbbreviation": "JVST"
 						},
 						{
-							"abbreviation": "DEL",
-							"name": "Delaware",
-							"mascot": "Blue Hens",
-							"primaryColor": "#00539F",
-							"secondaryColor": "#FFD200",
-							"zipcode": "19716",
+							"abbreviation": "NTU",
+							"name": "North Texas",
+							"mascot": "Mean Green",
+							"primaryColor": "#00853E",
+							"secondaryColor": "#FFFFFF",
+							"zipcode": "76207",
 							"attributes": {
 								"stadium": 2,
 								"facilities": 1,
 								"collegeLife": 7,
 								"academics": 8,
-								"marketing": 2,
-								"prestige": 1,
-								"attendance": 24000,
+								"marketing": 3,
+								"prestige": 2,
+								"attendance": 32000,
 								"fanbaseLevel": 2
 							},
 							"archetype": "academic-focused",
@@ -3403,12 +3403,12 @@
 							"rivalAbbreviation": "WKU"
 						},
 						{
-							"abbreviation": "MOST",
-							"name": "Missouri State",
-							"mascot": "Bears",
-							"primaryColor": "#5E0009",
-							"secondaryColor": "#FFFFFF",
-							"zipcode": "65801",
+							"abbreviation": "ARKST",
+							"name": "Arkansas State",
+							"mascot": "Red Wolves",
+							"primaryColor": "#CC092F",
+							"secondaryColor": "#000000",
+							"zipcode": "72401",
 							"attributes": {
 								"stadium": 2,
 								"facilities": 1,
